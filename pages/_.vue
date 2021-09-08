@@ -18,11 +18,13 @@
                                 icon="mdi-phone"
                                 :text="payload.phone"
                                 :href="`tel:${payload.phone}`"
+                                v-if="payload.phone"
                             />
                             <ResumeIconLink
                                 icon="mdi-web"
                                 :text="payload.website"
                                 :href="payload.website"
+                                v-if="payload.website"
                             />
                         </v-col>
 
@@ -31,10 +33,12 @@
                                 icon="mdi-email-multiple"
                                 :text="payload.email"
                                 :href="`mailto:${payload.email}`"
+                                v-if="payload.email"
                             />
                             <ResumeIconLink
                                 icon="mdi-map-marker"
                                 :text="payload.address"
+                                v-if="payload.address"
                             />
                         </v-col>
                     </v-row>

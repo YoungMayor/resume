@@ -3,15 +3,9 @@ export default {
     nick: '@YoungMayor',
     title: 'Fullstack Software Developer',
     phone: '+234(0)80 7517 8485',
-    website: 'https://youngmayor.dev',
-    phones: [
-        '+234(0)80 7517 8485',
-        '+234(0)70 8766 9108',
-        '+234(0)70 4616 1749'
-    ],
+    // website: 'https://youngmayor.dev',
     email: 'youngmayor08@gmail.com',
     address: 'Warri, Delta State',
-    age: new Date().getFullYear() - 1998,
     competences: [
         ['Resourcefulness', 80],
         ['Logical reasoning', 90],
@@ -28,17 +22,9 @@ export default {
         ['Singing', 5, 'yellow'],
         ['Sleeping', 20, 'cream']
     ],
-    links: {
-        github: '#',
-        facebook: '#',
-        linkedin: '#',
-        discord: '#',
-        twitter: '#',
-        // 'dev-to': '#',
-    },
     icon_links: [
         ['#', 'mdi-whatsapp', '+23480 7517 8485', 'green accent-4'],
-        ['#', 'mdi-telegram', '@YoungMayorX', 'blue lighten-1'],
+        ['#', 'mdi-send-circle', '@YoungMayorX', 'blue lighten-1'],
         ['#', 'mdi-github', 'YoungMayor', 'grey darken-3'],
         ['#', 'mdi-facebook', 'Young Mayor', 'blue'],
         ['#', 'mdi-discord', 'Young Mayor', 'deep-purple accent-1'],
