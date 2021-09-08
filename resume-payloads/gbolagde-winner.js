@@ -13,6 +13,9 @@ export default {
         ['Understanding', 95],
         ['Multi-tasking', 75],
         ['Respect for authority', 90],
+        ['Consistency', 90],
+        ['Patience', 90],
+        ['Teamwork', 95],
     ],
     time: [
         ['Reading', 25, 'red'],
@@ -153,16 +156,35 @@ All of my development's are modern standard, fully equiped with unit and feature
          */
         career: [
             [
+                'Fullstack Freelancer',
+                'Freelancing',
+                '2019 - 2021',
+                'Nigeria',
+                'I was a fullstack freelancer for two years while i was a student in Olabisi Onabanjo University building web applications for Secondary schools, Private hospitals, business websites, personal portfolios, i was also very active freelancing with Upwork, PeoplePerHour and Fiverr delivering so many solutions.', [
+                    'Built a lot of business websites and web applications for schools',
+                    'Database schema designs',
+                    'Web responsive designs',
+                    'More than 5 custom apps created for people',
+                    'Search Engine Optimizations',
+                    'Website management',
+                    'Deployments',
+                ]
+            ],
+
+            [
                 'Laravel Developer',
                 'Oceania',
                 '2021 - 2021',
                 'Malaysia',
-                'This is a remote contract job which involves Database Schema designs and web app development, The firm is specialized in transforming projects idea to web and mobile applications', [
+                'This is a remote contract job which lasted for 6 month which involves Database Schema designs and web app development, The firm is specialized in transforming projects idea to web and mobile applications', [
                     'Worked as a team player with a staff of 5 employees plus management',
-                    'Developed websites for blogs, job agency, social media as well as in-house projects using Core PHP and MySQL with Ajax',
+                    'Developed websites for blogs, job agency, social media as well as in-house projects using Core laravel with Ajax',
                     'Built the company internal use dashboard with two other developers',
+                    'Worked remotely with 2 existing staffs to optimize 2 existing web based projects using the laravel framework'
                 ]
             ],
+
+
         ],
 
         /**
@@ -183,44 +205,24 @@ All of my development's are modern standard, fully equiped with unit and feature
                 'Ambassador Montessori Academy',
                 '2003 - 2010',
                 'ogun, sagamu',
-                "An optional note", [
-                    'list item one',
-                    'list item two',
-                    'list item three',
-                ],
             ],
             [
                 'Junior School Leaving Certificate',
                 'Mayflower Junior School',
                 '2010 - 2013',
                 'ogun, sagamu',
-                "An optional note", [
-                    'list item one',
-                    'list item two',
-                    'list item three',
-                ],
             ],
             [
                 'Senior School Leaving Certificate',
                 'Mayflower Senior School',
                 'ogun, sagamu',
                 'School Location',
-                "An optional note", [
-                    'list item one',
-                    'list item two',
-                    'list item three',
-                ],
             ],
             [
                 'Bachelor of Science',
                 'Olabisi Onabanjo University (Studied Anatomy)',
                 '2016 - 2021',
                 'ogun, Sagamu',
-                "An optional note", [
-                    'list item one',
-                    'list item two',
-                    'list item three',
-                ],
             ],
             [
                 'Basics of Programming',
