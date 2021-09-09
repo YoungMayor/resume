@@ -211,10 +211,10 @@ All of my development's are modern standard, fully equiped with unit and feature
     histories: {
         /**
          * Career History
-         * Array Map: 
+         * Array Map:
          *  [
-         *      title: String, 
-         *      institution: String, 
+         *      title: String,
+         *      institution: String,
          *      date: String,
          *      location: String,
          *      note: String, Null,
@@ -269,7 +269,7 @@ All of my development's are modern standard, fully equiped with unit and feature
                     'Established a team of 5 skilled developers',
                     'Built the company\'s internal use dashboard',
                     'Solely developed in-house projects for the company which includes a developer community platform, blog applications, video download sites, church advertorials and event management applications, e-commerce application and Job Agencies',
-                    // 'Developed a total of 6 landing page applications for partnering firms', 
+                    // 'Developed a total of 6 landing page applications for partnering firms',
                     'Partnered in over 17 web based projects as contract developers',
                     'Worked in a total of 3 teams of 4, 2 and 6 members respectively'
                 ]
@@ -295,10 +295,10 @@ All of my development's are modern standard, fully equiped with unit and feature
 
         /**
          * Education History
-         * Array Map: 
+         * Array Map:
          *  [
-         *      title: String, 
-         *      institution: String, 
+         *      title: String,
+         *      institution: String,
          *      date: String,
          *      location: String,
          *      note: String, Null,
