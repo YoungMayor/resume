@@ -3,7 +3,7 @@ export default {
     nick: '@YoungMayor',
     title: 'Fullstack Software Developer',
     phone: '+234(0)80 7517 8485',
-    // website: 'https://youngmayor.dev',
+    website: 'https://youngmayor.dev',
     email: 'youngmayor08@gmail.com',
     address: 'Warri, Delta State',
     competences: [
@@ -239,7 +239,7 @@ All of my development's are modern standard, fully equiped with unit and feature
                 '2016',
                 'Delta State, Nigeria',
                 'A small scale computer office situated in Warri, Delta State where I served with the role of a Computer Operator, performing tasks ranging from Graphic Designs, Typist and Computer Repair Personnel', [
-                    'Installed and maintained company’s computer systems and network',
+                    'Installed and maintained company\'s computer systems and network',
                     'Worked as a team player with a staff of 7 employees plus management',
                     'Handled the training of 3 interns and helped them attain a high level of proficiency, thereby leading to the retention and staffing of 2 candidates'
                 ]
