@@ -16,7 +16,7 @@ if (!shell.which('git')) {
  */
 if (!username.match(/^([A-Z][a-z]+\s?)+$/g)) {
     shell.echo('Invalid user name passed')
-    return shell.exit(1)
+    shell.exit(1)
 }
 
 
