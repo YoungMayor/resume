@@ -3,7 +3,7 @@ export default {
     nick: '@Devayomi',
     title: 'Fullstack Software Developer',
     phone: '+2348147032718',
-    website: 'https://github.com/DevAyomi', // optional
+    website: 'https://github.com/DevAyomi',
     email: 'gbolagadewinner@gmail.com',
     address: 'Nigeria',
     competences: [
@@ -172,9 +172,9 @@ All of my development's are modern standard, fully equiped with unit and feature
             ],
 
             [
-                'Laravel Developer',
+                'Contract Backend Developer',
                 'Oceania',
-                '2021 - 2021',
+                '2021',
                 'Malaysia',
                 'This is a remote contract job which lasted for 6 month which involves Database Schema designs and web app development, The firm is specialized in transforming projects idea to web and mobile applications', [
                     'Worked as a team player with a staff of 5 employees plus management',
@@ -184,6 +184,26 @@ All of my development's are modern standard, fully equiped with unit and feature
                 ]
             ],
 
+            [
+                'Contract Fullstack Developer',
+                'EP Studios',
+                '2021',
+                'Delta State, Nigeria',
+                'Built the company\'s business website along with an in-house School Management System', [
+                    'Worked as the anchor for the two projects passed on to me working in a team of two',
+                ]
+            ],
+
+            [
+                'Junior Remote Fullstack Developer',
+                'Digicomme',
+                '2021',
+                'Lagos State, Nigeria',
+                'Functioned as a Junior Fullstack Developer working on projects', [
+                    'Worked as a team player with a staff of 3 employees',
+                    'Worked on a company project as the project\'s backend developer',
+                ]
+            ],
 
         ],
 
